@@ -1,5 +1,11 @@
 # INSPECTRE
 
+> Forked from [HuanyuZhang/INSPECTRE](https://github.com/HuanyuZhang/INSPECTRE) ![GitHub last commit](https://img.shields.io/github/last-commit/HuanyuZhang/INSPECTRE)
+
+> Published article: [![DOI:10.29012/jpc.724](https://zenodo.org/badge/DOI/10.29012/jpc.724.svg)](https://doi.org/10.29012/jpc.724)
+
+> Published code: coming
+
 We provide a Python implementation of our differentially private estimators of entropy and support coverage. This is a tutorial for anyone who wants to use or build upon these estimators.
 
 Table of contents
@@ -68,4 +74,18 @@ We provide ```main_real.py``` as an example for our private estimator. In this s
 
 Reference
 ================
-For detailed explanations and analysis of our estimators, please refer to our paper [INSPECTRE: Privately Estimating the Unseen](https://arxiv.org/abs/1803.00008), authored by [Jayadev Acharya](http://people.ece.cornell.edu/acharya/), [Gautam Kamath](http://www.gautamkamath.com/), Ziteng Sun, and Huanyu Zhang.
+For detailed explanations and analysis of our estimators, please refer to 
+- published article:
+> Jayadev Acharya, Gautam Kamath, Ziteng Sun, and Huanyu Zhang. 2020. "INSPECTRE: Privately Estimating the Unseen". Journal of Privacy and Confidentiality 10 (2). [https://doi.org/10.29012/jpc.724](https://doi.org/10.29012/jpc.724)
+```
+@article{jpc:724,
+  author={Jayadev Acharya and Gautam Kamath and Ziteng Sun and Huanyu Zhang},
+  title={{INSPECTRE}: Privately Estimating the Unseen},
+  doi={10.29012/jpc.724},
+  year={2020},
+  volume={10},
+  issue={2},
+  journal={Journal of Privacy and Confidentiality},
+}
+```
+- arXiv paper [INSPECTRE: Privately Estimating the Unseen](https://arxiv.org/abs/1803.00008), authored by [Jayadev Acharya](http://people.ece.cornell.edu/acharya/), [Gautam Kamath](http://www.gautamkamath.com/), Ziteng Sun, and Huanyu Zhang.
