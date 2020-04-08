@@ -4,7 +4,7 @@
 
 > Published article: [![DOI:10.29012/jpc.724](https://zenodo.org/badge/DOI/10.29012/jpc.724.svg)](https://doi.org/10.29012/jpc.724)
 
-> Published code: coming
+> Published code: [![DOI:10.5281/zenodo.3743892](https://zenodo.org/badge/DOI/10.5281/zenodo.3743892.svg)](https://doi.org/10.5281/zenodo.3743892)
 
 We provide a Python implementation of our differentially private estimators of entropy and support coverage. This is a tutorial for anyone who wants to use or build upon these estimators.
 
